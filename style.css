@@ -80,3 +80,10 @@ li>ul>li {
 #keret img {
     width: 100%;
 }
+
+footer {
+    height: 30px;
+    background-color: darkgoldenrod;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
