@@ -68,3 +68,10 @@ li>ul>li {
     padding-top: 50px;
 
 }
+
+div {
+    text-align: center;
+    background-color: white;
+    width: 1000px;
+    height: 300px;
+}
