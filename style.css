@@ -1,6 +1,6 @@
 body {
-    background-image: url(shein.jpg);
-    background-repeat: no-repeat;
+    background-image: url(img/shein.jpg);
+    background-repeat: repeat-x repeat-y;
     background-position: center;
     background-size: cover;
     height: 100vh;
